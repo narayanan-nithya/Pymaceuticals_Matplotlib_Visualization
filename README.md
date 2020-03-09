@@ -2,7 +2,9 @@
   <p align="center">
   <img width="800" height="300" src="https://github.com/narayanan-nithya/Pymaceuticals_Matplotlib_Visualization/blob/master/Laboratory.jpg">
 </p>
-  #Observations and Insights
+
+# Observations and Insights
+
 1. The Drugs namely 'Capomulin' and "Ramicane' had the most data points meaning study was conducted with more mice subjected      to these drugs.
 
 2. The male mice gender comprises of the 50.6% of the 250 mice under study.
@@ -15,24 +17,24 @@
   <img width="800" height="300" src="https://github.com/narayanan-nithya/Pymaceuticals_Matplotlib_Visualization/blob/master/Bar%20Chart%201.png">
 </p>
 <p align="center">
-  <img width="800" height="300" src="https://github.com/narayanan-nithya/Pymaceuticals_Matplotlib_Visualization/blob/master/Bar_viapyplot.png">
+  <img width="300" height="300" src="https://github.com/narayanan-nithya/Pymaceuticals_Matplotlib_Visualization/blob/master/Bar_viapyplot.png">
 </p>
 <p align="center">
-  <img width="800" height="300" src="https://github.com/narayanan-nithya/Pymaceuticals_Matplotlib_Visualization/blob/master/pie%20chart.png">
+  <img width="300" height="300" src="https://github.com/narayanan-nithya/Pymaceuticals_Matplotlib_Visualization/blob/master/pie%20chart.png">
 </p>
 <p align="center">
-  <img width="800" height="300" src="https://github.com/narayanan-nithya/Pymaceuticals_Matplotlib_Visualization/blob/master/pie%20via%20pyplot.png">
+  <img width="300" height="300" src="https://github.com/narayanan-nithya/Pymaceuticals_Matplotlib_Visualization/blob/master/pie%20via%20pyplot.png">
 </p>
 <p align="center">
-  <img width="800" height="300" src="https://github.com/narayanan-nithya/Pymaceuticals_Matplotlib_Visualization/blob/master/boxplot.png">
+  <img width="300" height="300" src="https://github.com/narayanan-nithya/Pymaceuticals_Matplotlib_Visualization/blob/master/boxplot.png">
 </p>
 <p align="center">
-  <img width="800" height="300" src="https://github.com/narayanan-nithya/Pymaceuticals_Matplotlib_Visualization/blob/master/timpoint%20vs%20mouse%20id.png">
+  <img width="300" height="300" src="https://github.com/narayanan-nithya/Pymaceuticals_Matplotlib_Visualization/blob/master/timpoint%20vs%20mouse%20id.png">
 </p>
 <p align="center">
-  <img width="800" height="300" src="https://github.com/narayanan-nithya/Pymaceuticals_Matplotlib_Visualization/blob/master/mouse%20weight%20vs%20tumor.png">
+  <img width="300" height="300" src="https://github.com/narayanan-nithya/Pymaceuticals_Matplotlib_Visualization/blob/master/mouse%20weight%20vs%20tumor.png">
 </p>
 
 <p align="center">
-  <img width="800" height="300" src="https://github.com/narayanan-nithya/Pymaceuticals_Matplotlib_Visualization/blob/master/regress%20mouse%20weight%20vs%20tumor.png">
+  <img width="300" height="300" src="https://github.com/narayanan-nithya/Pymaceuticals_Matplotlib_Visualization/blob/master/regress%20mouse%20weight%20vs%20tumor.png">
 </p>
