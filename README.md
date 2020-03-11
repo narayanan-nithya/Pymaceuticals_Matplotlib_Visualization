@@ -36,5 +36,5 @@
 </p>
 
 <p align="center">
-  <img width="300" height="300" src="https://github.com/narayanan-nithya/Pymaceuticals_Matplotlib_Visualization/blob/master/regress%20mouse%20weight%20vs%20tumor.png">
+  <img width="300" height="300" src="https://github.com/narayanan-nithya/Pymaceuticals_Matplotlib_Visualization/blob/master/regress%20graph.png">
 </p>
